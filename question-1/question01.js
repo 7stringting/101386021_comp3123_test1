@@ -1,7 +1,7 @@
 //Made by Ali Al Aoraebi
 //Student Number: 101386021
 
-//Question 1
+//Question 1 
 
 function lowerCaseWords(){
     function lowerCaseWords(mixedArray) {
@@ -24,7 +24,6 @@ function lowerCaseWords(){
       
       // Example 
       const mixedArray = [1, "Hello", "WORLD", true, "JavaScript"];
-
       lowerCaseWords(mixedArray)
         .then((result) => {
           console.log("Filtered and Lowercased Words:", result);
