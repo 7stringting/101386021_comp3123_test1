@@ -22,8 +22,9 @@ function lowerCaseWords(){
         });
       }
       
-      // Example usage:
+      // Example 
       const mixedArray = [1, "Hello", "WORLD", true, "JavaScript"];
+
       lowerCaseWords(mixedArray)
         .then((result) => {
           console.log("Filtered and Lowercased Words:", result);

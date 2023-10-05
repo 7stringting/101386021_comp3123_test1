@@ -1,3 +1,6 @@
+//Made by Ali Al Aoraebi
+// Student Number: 101386021
+
 const resolvedPromise = () => {
     return new Promise((resolve) => {
       setTimeout(() => {
